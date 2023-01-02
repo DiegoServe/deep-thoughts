@@ -1,7 +1,6 @@
 {
   "name": "mern-server",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -30,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/DiegoServe/deep-thoughts/issues"
   },
-  "homepage": "https://github.com/DiegoServe/deep-thoughts#readme"
+  "homepage": "https://github.com/DiegoServe/deep-thoughts#readme",
+  "description": ""
 }
