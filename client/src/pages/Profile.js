@@ -37,12 +37,11 @@ const Profile = (props) => {
         </div>
 
         <div className="col-12 col-lg-3 mb-3">
-            <FriendList
+          <FriendList
             username={user.username}
             friendCount={user.friendCount}
             friends={user.friends}
-            />
-          
+          />
         </div>
       </div>
     </div>
